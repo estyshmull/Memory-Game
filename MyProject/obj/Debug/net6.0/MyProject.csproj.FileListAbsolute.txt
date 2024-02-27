@@ -1,0 +1,45 @@
+C:\Users\user1\Documents\לימודים\c#\אחרי פסח\MyProject\MyProject\bin\Debug\net6.0\MyProject.exe
+C:\Users\user1\Documents\לימודים\c#\אחרי פסח\MyProject\MyProject\bin\Debug\net6.0\MyProject.deps.json
+C:\Users\user1\Documents\לימודים\c#\אחרי פסח\MyProject\MyProject\bin\Debug\net6.0\MyProject.runtimeconfig.json
+C:\Users\user1\Documents\לימודים\c#\אחרי פסח\MyProject\MyProject\bin\Debug\net6.0\MyProject.dll
+C:\Users\user1\Documents\לימודים\c#\אחרי פסח\MyProject\MyProject\bin\Debug\net6.0\MyProject.pdb
+C:\Users\user1\Documents\לימודים\c#\אחרי פסח\MyProject\MyProject\obj\Debug\net6.0\MyProject.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\לימודים\c#\אחרי פסח\MyProject\MyProject\obj\Debug\net6.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\לימודים\c#\אחרי פסח\MyProject\MyProject\obj\Debug\net6.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\לימודים\c#\אחרי פסח\MyProject\MyProject\obj\Debug\net6.0\MyProject.AssemblyInfo.cs
+C:\Users\user1\Documents\לימודים\c#\אחרי פסח\MyProject\MyProject\obj\Debug\net6.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\לימודים\c#\אחרי פסח\MyProject\MyProject\obj\Debug\net6.0\MyProject.dll
+C:\Users\user1\Documents\לימודים\c#\אחרי פסח\MyProject\MyProject\obj\Debug\net6.0\refint\MyProject.dll
+C:\Users\user1\Documents\לימודים\c#\אחרי פסח\MyProject\MyProject\obj\Debug\net6.0\MyProject.pdb
+C:\Users\user1\Documents\לימודים\c#\אחרי פסח\MyProject\MyProject\obj\Debug\net6.0\MyProject.genruntimeconfig.cache
+C:\Users\user1\Documents\לימודים\c#\אחרי פסח\MyProject\MyProject\obj\Debug\net6.0\ref\MyProject.dll
+C:\Users\user1\Documents\לימודים\MyProject\MyProject\obj\Debug\net6.0\MyProject.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\לימודים\MyProject\MyProject\obj\Debug\net6.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\לימודים\MyProject\MyProject\obj\Debug\net6.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\לימודים\MyProject\MyProject\obj\Debug\net6.0\MyProject.AssemblyInfo.cs
+C:\Users\user1\Documents\לימודים\MyProject\MyProject\obj\Debug\net6.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\לימודים\MyProject\MyProject\obj\Debug\net6.0\MyProject.dll
+C:\Users\user1\Documents\לימודים\MyProject\MyProject\obj\Debug\net6.0\refint\MyProject.dll
+C:\Users\user1\Documents\לימודים\MyProject\MyProject\obj\Debug\net6.0\MyProject.pdb
+C:\Users\user1\Documents\לימודים\MyProject\MyProject\bin\Debug\net6.0\MyProject.exe
+C:\Users\user1\Documents\לימודים\MyProject\MyProject\bin\Debug\net6.0\MyProject.deps.json
+C:\Users\user1\Documents\לימודים\MyProject\MyProject\bin\Debug\net6.0\MyProject.runtimeconfig.json
+C:\Users\user1\Documents\לימודים\MyProject\MyProject\bin\Debug\net6.0\MyProject.dll
+C:\Users\user1\Documents\לימודים\MyProject\MyProject\bin\Debug\net6.0\MyProject.pdb
+C:\Users\user1\Documents\לימודים\MyProject\MyProject\obj\Debug\net6.0\MyProject.genruntimeconfig.cache
+C:\Users\user1\Documents\לימודים\MyProject\MyProject\obj\Debug\net6.0\ref\MyProject.dll
+C:\Users\user1\Documents\לימודים\שנה א\פרויקטים\MyProject\MyProject\bin\Debug\net6.0\MyProject.exe
+C:\Users\user1\Documents\לימודים\שנה א\פרויקטים\MyProject\MyProject\bin\Debug\net6.0\MyProject.deps.json
+C:\Users\user1\Documents\לימודים\שנה א\פרויקטים\MyProject\MyProject\bin\Debug\net6.0\MyProject.runtimeconfig.json
+C:\Users\user1\Documents\לימודים\שנה א\פרויקטים\MyProject\MyProject\bin\Debug\net6.0\MyProject.dll
+C:\Users\user1\Documents\לימודים\שנה א\פרויקטים\MyProject\MyProject\bin\Debug\net6.0\MyProject.pdb
+C:\Users\user1\Documents\לימודים\שנה א\פרויקטים\MyProject\MyProject\obj\Debug\net6.0\MyProject.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\לימודים\שנה א\פרויקטים\MyProject\MyProject\obj\Debug\net6.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\לימודים\שנה א\פרויקטים\MyProject\MyProject\obj\Debug\net6.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\לימודים\שנה א\פרויקטים\MyProject\MyProject\obj\Debug\net6.0\MyProject.AssemblyInfo.cs
+C:\Users\user1\Documents\לימודים\שנה א\פרויקטים\MyProject\MyProject\obj\Debug\net6.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\לימודים\שנה א\פרויקטים\MyProject\MyProject\obj\Debug\net6.0\MyProject.dll
+C:\Users\user1\Documents\לימודים\שנה א\פרויקטים\MyProject\MyProject\obj\Debug\net6.0\refint\MyProject.dll
+C:\Users\user1\Documents\לימודים\שנה א\פרויקטים\MyProject\MyProject\obj\Debug\net6.0\MyProject.pdb
+C:\Users\user1\Documents\לימודים\שנה א\פרויקטים\MyProject\MyProject\obj\Debug\net6.0\MyProject.genruntimeconfig.cache
+C:\Users\user1\Documents\לימודים\שנה א\פרויקטים\MyProject\MyProject\obj\Debug\net6.0\ref\MyProject.dll
